@@ -3,7 +3,8 @@
 - EVERTON EMANUEL LLARENA DA SILVA - 20230012574
 
 ## Como rodar
-`python3 tests.py`
+- `python3 tests.py` para analisar um arquivo especifico
+- `python3 -m unittest test_lexer -v` para rodar os testes automatizados
 
 ## E/S
 As entradas estão presentes no diretório `inputs`, são arquivos `.txt` com as expressões.
