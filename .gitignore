@@ -1,3 +1,5 @@
-__pycache__/
-*.pyc
-.venv/
+*.s.save
+*.o
+saida
+__pycache__
+
