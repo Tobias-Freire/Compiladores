@@ -29,7 +29,7 @@ TESTES_SUCESSO = [
     # Variável usada na própria expressão de outra variável
     ("a = 5;\nb = a * 2;\nc = a + b;\n= c", "15"),
 
-    # Programa do exemplo do professor (periímetro)
+    # Programa do exemplo do professor (perímetro)
     ("l = 30;\nc = 40;\n= l + l + c + c", "140"),
 
     # Programa com expressão mais complexa
